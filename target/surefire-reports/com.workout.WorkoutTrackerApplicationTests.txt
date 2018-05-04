@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.workout.WorkoutTrackerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 53.402 s - in com.workout.WorkoutTrackerApplicationTests
