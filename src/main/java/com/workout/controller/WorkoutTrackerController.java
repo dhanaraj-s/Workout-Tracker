@@ -23,6 +23,8 @@ import com.workout.vo.WorkoutVO;
  */
 @RestController
 @CrossOrigin(origins = "http://localhost:4200") 
+/**Use the below mapping when you are running this spring boot application using jar.*/
+/**@RequestMapping(value="/workouttracker")*/ 
 public class WorkoutTrackerController {
 	
 	@Autowired
